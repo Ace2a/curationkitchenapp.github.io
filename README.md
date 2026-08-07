@@ -1,1 +1,1 @@
-# curationkitchenapp.github.io
+# Curation Kitchen
