@@ -1,3 +1,6 @@
+---
+title: Curation Kitchen
+---
 # Welcome to Curation Kitchen
 Our official mobile application is currently in development.
 
